@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto_Bank/1.0.0": {
+        "runtime": {
+          "Projeto_Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

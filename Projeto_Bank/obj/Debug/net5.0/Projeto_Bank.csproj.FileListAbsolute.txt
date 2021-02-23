@@ -1,0 +1,16 @@
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.exe
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.deps.json
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.runtimeconfig.json
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.runtimeconfig.dev.json
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.dll
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\ref\Projeto_Bank.dll
+C:\WS-VS2019\Projeto_Bank\bin\Debug\net5.0\Projeto_Bank.pdb
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.csprojAssemblyReference.cache
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.AssemblyInfoInputs.cache
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.AssemblyInfo.cs
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.csproj.CoreCompileInputs.cache
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.dll
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\ref\Projeto_Bank.dll
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.pdb
+C:\WS-VS2019\Projeto_Bank\obj\Debug\net5.0\Projeto_Bank.genruntimeconfig.cache

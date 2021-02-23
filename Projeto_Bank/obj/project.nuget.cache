@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNgyY2Kk2nPZE8hNOdV7bqil7NzOr5jGY+ZVa3rSoRzNPqdylWXiEB1TQQbT6dKTZCwfaa1NJJ9mpKeyoyc5Lw==",
+  "success": true,
+  "projectFilePath": "C:\\WS-VS2019\\Projeto_Bank\\Projeto_Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
